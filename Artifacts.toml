@@ -1,0 +1,288 @@
+[[simdjson]]
+arch = "aarch64"
+git-tree-sha1 = "92c609487e6d389a6b51b5352d90a41dfe7868dd"
+os = "macos"
+
+    [[simdjson.download]]
+    sha256 = "20f4f2615a19e2ab28d80acd19aa8ba5784db5bd10412891c1372f61809834d8"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.aarch64-apple-darwin.tar.gz"
+[[simdjson]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a6fb485ebd55a990c3f19c14aa62cf0153cdd132"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "a6e1fb2cd851f785c8383e6562225aaa99ad1df54e14143dc0b00667bd85f36d"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[simdjson]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c3232d439ebf7a9871cf520ebd173c7658a55db"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "895636857e27d13b057d880494b3b555a2601057615e552a5560598d9f16a11c"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[simdjson]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23999769163ddd10340114575776b08d29ca984f"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "f710e0db083bd3723551c0a771feedbccedeaedcd85b262a5705f8cac4ab2adb"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.aarch64-linux-musl-cxx03.tar.gz"
+[[simdjson]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "842ab6035d9c0f1031bc1eecee822873e11eed99"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "d63ecee41dc741749261717ae53dfbb96828ff10910051ef832822bb89c33909"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.aarch64-linux-musl-cxx11.tar.gz"
+[[simdjson]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1633b3aaf5956e9b0854f502e5dd8941f097ecae"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "f6af3db67d9845faaaaa849ed4b8da93a7badfa56684a673e332adc7563e2bf5"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[simdjson]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d7f8dcc765157bedfd3d78e6fc1bf521880081f4"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "fa2ed6e61d2c05db6b1657b4665dbb0c97dce4c7165b785bb10bd6824714935c"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[simdjson]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6385da40d7cf82320a68672a627bdf256e97d1f4"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "64d43fc415743935e6daf94cf3f91ab15dae652d027ac1ae1acd7f6c95754d1f"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[simdjson]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94612de0136b58c6f640a29ea8bcdd73dd229d9e"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "966de157132f2d6a1cf1754aeea354ba6ecb0de5c810bde0f993124d9eb5e6d0"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[simdjson]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3914d0602a4c8e6e625fad764c3731079d95ddde"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "cb96591a7dbe356e76e97339f4853f9249fa987cb89f4216c811814d10b73f55"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[simdjson]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b12c64bc8b14f966b43fff2915974bb16cae8a29"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "4f58e8d47e10a41b020242f0237bab38f19ff8e7f7107771c1daf5c130a0b084"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[simdjson]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3bd297a60b3620015151eaa658a50f769617332b"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "d8bb08c6b1b83dd23921a4460aa825d11c32af79713e16caf4f58d821df64f6b"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[simdjson]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "00802a30f0f08dc5b29eec1a2d3fded0bc39d470"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "1131dbc5af13649ea74191ab95d8cf83eb9cadbb8274632ab13df04ff8696b2d"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[simdjson]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f7cff0dfe9ed9d7ef7beb36d9964e6216f26e966"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "909060c10b51bca1d6a7047a52b1688e2b39069098210f68b59befcbb2262ded"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.i686-linux-gnu-cxx03.tar.gz"
+[[simdjson]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f38e0de606074be960ed3642de88b282dced0b77"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "4196ab4f978ae023a79e6a26e54641bf01a725bf3b8bfa110137f02185127fed"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.i686-linux-gnu-cxx11.tar.gz"
+[[simdjson]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a84dba535a533796448e467d5e145b19946cc442"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "01d073bf6b80284bc8e8f8bf2b4b771b2db0ee6462338058fb974df46698b0b4"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.i686-linux-musl-cxx03.tar.gz"
+[[simdjson]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f2ca97cc051548d528c7b2d04c091191d3c35e8"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "72b04af57e5596e620ae7737c7030670104bb7e5ff8b28b1dcfdf8cbd4620e14"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.i686-linux-musl-cxx11.tar.gz"
+[[simdjson]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6d113c13a8f60dd44c8b2d5f01f714b687111477"
+os = "windows"
+
+    [[simdjson.download]]
+    sha256 = "b8d90e877da71f53fcccecc27d5ae080f5157819c1c9493b98c4c0fe30b0ce9e"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.i686-w64-mingw32-cxx03.tar.gz"
+[[simdjson]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0cb96fc01af27c3fbec25fc1946693958934b37d"
+os = "windows"
+
+    [[simdjson.download]]
+    sha256 = "776c5a108a952b17a9a4b2e0f179149b0a0ca70de5e9c9793242e7d144fea63d"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.i686-w64-mingw32-cxx11.tar.gz"
+[[simdjson]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9d48a7fd5c8658c8e3f15a3483ef8031391e49a"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "8ae342d6c41020984bdf2024508d8b828aed1d187a58cd3a1070d499aab3ccd9"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[simdjson]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f15e976f751769e3f43eaa9b9cc35e7d4b96524a"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "d78e5a644220a3b972824537a3579b037fc682dd35b6d2b4b7254473123fdecf"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[simdjson]]
+arch = "x86_64"
+git-tree-sha1 = "7962b8860b8953ae1be810fe0ca5c9b519424f67"
+os = "macos"
+
+    [[simdjson.download]]
+    sha256 = "423695c86cd15c112d6e3b5fe82ed7726b65f7f2afbe04d5469e53dd13a0fa58"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.x86_64-apple-darwin.tar.gz"
+[[simdjson]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "37bcc3daec6d09908092db19387a1c861af0ce88"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "313db562611c4b85642e040847c5530b265c9a01600fd0b6c5720f0ec204fffe"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[simdjson]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b960b7d7e26680746f72753e3468696727dfccb"
+libc = "glibc"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "3f75b2b89ec17fd6718aea6525205a76c11f0730bb944161f38943f84cc6c338"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[simdjson]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c975f28648432bd41e63e090628eafe5335d2c4f"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "23c752d4669346265d5b1e96a584772fafef24ad721c91b4f5039cb2f7531ca2"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.x86_64-linux-musl-cxx03.tar.gz"
+[[simdjson]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ca6749964429400766536d40887bc3c5cd1b048"
+libc = "musl"
+os = "linux"
+
+    [[simdjson.download]]
+    sha256 = "3fde8a9809464fdc5d35a256e5c2ac715cd3ec0b1d5243b8d9fed62a50e6ef89"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.x86_64-linux-musl-cxx11.tar.gz"
+[[simdjson]]
+arch = "x86_64"
+git-tree-sha1 = "fc0cc157a7a02a9863682eeec0485986554b68d8"
+os = "freebsd"
+
+    [[simdjson.download]]
+    sha256 = "9a9e0fbea54587f06cc46c327cbe6ad8dbd3f4a9cd45d350b6d42ba10864dad6"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.x86_64-unknown-freebsd.tar.gz"
+[[simdjson]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bd1c360b7ec72f7c0d26398cc3f87b04f3192c8a"
+os = "windows"
+
+    [[simdjson.download]]
+    sha256 = "735b52cbb00e46333bf842db8f49e3092666aeb56611bcafd7c95ba6e655fa16"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[simdjson]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "727c84e9d46a4c3af291faec105fd7f046064e14"
+os = "windows"
+
+    [[simdjson.download]]
+    sha256 = "55731c97d3b1396c7df07aedced479d5c3fc2d375471e3aba0cc5141c8e59a17"
+    url = "https://github.com/JuliaBinaryWrappers/simdjson_jll.jl/releases/download/simdjson-v0.9.2+0/simdjson.v0.9.2.x86_64-w64-mingw32-cxx11.tar.gz"
